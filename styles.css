@@ -99,6 +99,7 @@ ul li {
   20% { transform:scale(1); }
 }
 
+/*animation for the dots*/
 ul li:nth-child(1) {
   animation-delay: -1.4s;
   background: #ffff00;
@@ -134,6 +135,7 @@ ul li:nth-child(6) {
   background: #f57c00;
   box-shadow: 0 0 50px #f57c00;
 }
+
 
 ul li:nth-child(7) {
   animation-delay: -0.2s;
